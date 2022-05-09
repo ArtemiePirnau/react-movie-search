@@ -1,5 +1,5 @@
-(![изображение](https://user-images.githubusercontent.com/92051961/167386263-1b05d8da-3126-4b66-9c1c-bef2280a5d48.png)
-)
+![изображение](https://user-images.githubusercontent.com/92051961/167386263-1b05d8da-3126-4b66-9c1c-bef2280a5d48.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
