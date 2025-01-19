@@ -3,7 +3,7 @@
 # Description
 That's a pet project
 
-Search for a movie
+Search for a movie from the list
 
 # Getting Started with Create React App
 
